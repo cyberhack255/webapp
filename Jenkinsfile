@@ -18,5 +18,5 @@ pipeline {
       sh 'mvn clean package'
        }
     }
-  
+  }
       
